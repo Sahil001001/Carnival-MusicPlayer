@@ -6,7 +6,7 @@ Carnival Music Player is a basic music player build with HTML/CSS &amp; JavaScri
 - Styled controls
 - Supports custom audio files
 
-##Demo Video
+## Demo Video
 https://drive.google.com/file/d/1sm7y9gzfU52yToYBQzcnZUK3L-cCD3d5/view?usp=drive_link
 
 ## Sample Audio Files
